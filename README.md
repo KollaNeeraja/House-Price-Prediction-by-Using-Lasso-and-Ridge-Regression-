@@ -53,9 +53,9 @@ You are required to model the price of houses with the available independent var
 
 # Conclusion
 
-## SalePrice is the target column here.
+######## SalePrice is the target column here.
 
-## All the features are then analyzed, missing data handling, outlier detection, data cleaning are done. Trend of SalePrice is observed for change in individual features.
+######## All the features are then analyzed, missing data handling, outlier detection, data cleaning are done. Trend of SalePrice is observed for change in individual features.
 
 ## New features are extracted, redundant features dropped and categorical features are encoded accordingly.
 

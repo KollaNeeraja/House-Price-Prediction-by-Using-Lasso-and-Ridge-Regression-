@@ -20,6 +20,15 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 # Business Goal
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
+# Technolgies used:
+ ## Python pandas - Version : 1.2.4
+ ## numpy - Version : 1.20.1
+ ## seaborn - Version : 0.11.1
+ ## matplotlib - Version : 3.3.4
+ ## statsmodels - Version : 0.12.2
+ ## pandasql - Version : 0.7.3
+ ## sklearn - Version :0.24.2
+
  # Approach:
 
 
